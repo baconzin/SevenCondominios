@@ -1,0 +1,6 @@
+{
+  "name": "Seven Condomínios - Raphael Pascon",
+  "description": "Administração profissional de condomínios, gestão financeira, assembleias, manutenção, obras, fornecedores e relacionamento com moradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
